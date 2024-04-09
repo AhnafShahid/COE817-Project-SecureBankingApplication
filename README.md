@@ -1,1 +1,1 @@
-"# COE817-Project-SecureBankingApplication" 
+This application simulates a basic banking system with functionalites such as logging and registering, and then depositing, withdrawing, checking balance. The main purpose is to use encryption methods such as using nonces,message authentication code (MAC), and digital signatures for authentication and encrypting the data sent to and from the server.
